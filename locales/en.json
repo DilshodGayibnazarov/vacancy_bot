@@ -1,0 +1,8 @@
+{
+  "greeting": "hello Please choose language",
+  "choose": "Please choose one of these below 👇",
+  "choose_department": "Please choose your department which wante to apply",
+	"get_full_name": "Please write your full name",
+	"date_of_birth": "Enter your date of birth",
+  "wrong_type":"wrong type"
+}
